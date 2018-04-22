@@ -1,7 +1,7 @@
 # Unofficial-pfSense-packages
 Unofficial packages for pfSense software
 
-As many people know already, Netgate has trimmed a lot of packages from official repo since pfSense® 2.3. 
+As many people know already, Netgate has removed a lot of packages from official repo since pfSense® 2.3. 
 
 This repo updates some packages for newer pfSense software versions with manual procedure installs.
 
@@ -11,7 +11,7 @@ Feedbacks and contributions are always welcome.
 
 # Install instructions
 
-You can enable unoffical repo creating or downloading the file below:
+You can enable unoffical repo running the commands below via SSH depending on your version/architecture:
 
 AMD64
 pfSense 2.3 amd64:
